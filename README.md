@@ -5,6 +5,7 @@ All the 47 counties in json with;
   - County Name
   - Geographical Information
   - County Code
+  - Shape Files & GeoJson for GIS / Mapping
 
 # Example
 
@@ -24,6 +25,8 @@ All the 47 counties in json with;
 
  
 > *Use the COUNTY_CODE as the unique identifier 
+
+
 
 
 ### Todos
